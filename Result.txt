@@ -1,0 +1,2 @@
+2017-01-08 22:59:04.763035: Failed to connect to network
+2017-01-08 23:00:04.815333: Failed to connect to network
