@@ -24,7 +24,6 @@ def PingTest(y):
     while(True):
         
         for i in y:
-            
             ping = os.system('ping ' + i)
             ts = datetime.datetime.utcnow()
             print(ts)
